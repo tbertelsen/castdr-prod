@@ -1,4 +1,4 @@
-var castDrHomeUrl = 'https://castdr-test.tbertelsen.dk/'
+var castDrHomeUrl = 'https://castdr.tbertelsen.dk/'
 
 function runCastdrBookmarklet() {
 	console.log("Running CastDr bookmarklet")
